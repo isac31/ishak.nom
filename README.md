@@ -1,0 +1,2 @@
+# ishak.nom
+God project
